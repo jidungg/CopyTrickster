@@ -1,0 +1,513 @@
+﻿  BasicAttack.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Button.cpp
+  (소스 파일 '/BasicAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BasicAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BasicAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BasicAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\BasicAttack.cpp(18,28): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BasicAttack.cpp'을(를) 컴파일하는 중)
+  
+  Character.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Character.cpp(291,20): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Character.cpp(291,20): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Character.cpp(291,31): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Character.cpp(291,31): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character.cpp'을(를) 컴파일하는 중)
+  
+  BmpMgr.cpp
+  CollisionMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+  Controller.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Controller.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Controller.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Controller.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Controller.cpp'을(를) 컴파일하는 중)
+  
+  CoraBeach.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CoraBeach.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CoraBeach.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CoraBeach.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CoraBeach.cpp'을(를) 컴파일하는 중)
+  
+  CUIHeadUp.cpp
+  DefaultWindow.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+  Dragon.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dragon.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dragon.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dragon.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dragon.cpp'을(를) 컴파일하는 중)
+  
+  EffectMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EffectMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EffectMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EffectMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EffectMgr.cpp'을(를) 컴파일하는 중)
+  
+  EnergyPunch.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnergyPunch.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnergyPunch.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnergyPunch.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnergyPunch.cpp'을(를) 컴파일하는 중)
+  
+  EventMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EventMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EventMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EventMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EventMgr.cpp'을(를) 컴파일하는 중)
+  
+  KeyMgr.cpp
+  Line.cpp
+  LineMgr.cpp
+  Logo.cpp
+  Magma.cpp
+  MainGame.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(52,35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(52,35):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\MainGame.cpp(45,70):
+  	컴파일되는 클래스 템플릿 인스턴스화 'CAbstractFactory<CPlayer>'에 대한 참조를 확인하세요.
+  	C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(47,21):
+  	클래스 템플릿 멤버 함수 'CCharacter *CAbstractFactory<CPlayer>::Create(POINT,CHARACTER_DATA *)'을(를) 컴파일하는 중입니다.
+  		C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\MainGame.cpp(45,19):
+  		'CMainGame::Initialize'에서 'CAbstractFactory<CPlayer>::Create'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(52,24): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+  Monster.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CharacterDataBase.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\CharacterDataBase.cpp(76,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CharacterDataBase.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\CharacterDataBase.cpp(77,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CharacterDataBase.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\CharacterDataBase.cpp(115,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CharacterDataBase.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\CharacterDataBase.cpp(116,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CharacterDataBase.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\CharacterDataBase.cpp(153,15): warning C4101: 'pQueue' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/CharacterDataBase.cpp'을(를) 컴파일하는 중)
+  
+  MonsterSpawner.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MonsterSpawner.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MonsterSpawner.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MonsterSpawner.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MonsterSpawner.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\MonsterSpawner.cpp(54,47): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MonsterSpawner.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\MonsterSpawner.cpp(54,33): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MonsterSpawner.cpp'을(를) 컴파일하는 중)
+  
+  Mouse.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Mouse.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Mouse.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Mouse.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Mouse.cpp'을(를) 컴파일하는 중)
+  
+  MouseMgr.cpp
+  MyBmp.cpp
+  MyButton.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MyButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MyButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MyButton.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MyButton.cpp'을(를) 컴파일하는 중)
+  
+  NPC.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/NPC.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/NPC.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/NPC.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/NPC.cpp'을(를) 컴파일하는 중)
+  
+  Obj.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Obj.cpp'을(를) 컴파일하는 중)
+  
+  ObjMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ObjMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ObjMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ObjMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ObjMgr.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+  Portal.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Portal.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Portal.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Portal.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Portal.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Scene.cpp(59,51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Scene.cpp(59,32): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(43,34): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(43,34):
+  템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+  	C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Scene.cpp(69,59):
+  	컴파일되는 클래스 템플릿 인스턴스화 'CAbstractFactory<CPortal>'에 대한 참조를 확인하세요.
+  	C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(39,15):
+  	클래스 템플릿 멤버 함수 'CObj *CAbstractFactory<CPortal>::Create(POINT)'을(를) 컴파일하는 중입니다.
+  		C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Scene.cpp(69,20):
+  		'CScene::Start'에서 'CAbstractFactory<CPortal>::Create'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\AbstractFactory.h(43,24): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Scene.cpp'을(를) 컴파일하는 중)
+  
+  SceneMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneMgr.cpp'을(를) 컴파일하는 중)
+  
+  ScrollMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\ScrollMgr.cpp(27,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ScrollMgr.cpp'을(를) 컴파일하는 중)
+  
+  Skill.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\ScrollMgr.cpp(30,22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ScrollMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Skill.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Skill.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Skill.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Skill.cpp'을(를) 컴파일하는 중)
+  
+  SkillInventory.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SkillInventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SkillInventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SkillInventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SkillInventory.cpp'을(를) 컴파일하는 중)
+  
+  SoundMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\SoundMgr.cpp(120,14): warning C4244: '초기화 중': 'intptr_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SoundMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\SoundMgr.cpp(144,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SoundMgr.cpp'을(를) 컴파일하는 중)
+  
+  Tile.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Tile.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Tile.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Tile.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Tile.cpp'을(를) 컴파일하는 중)
+  
+  TileMgr.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(225,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(226,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(249,16): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(249,16): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(250,16): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(250,16): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(251,16): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(251,16): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(252,16): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\TileMgr.cpp(252,16): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileMgr.cpp'을(를) 컴파일하는 중)
+  
+  Town.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Town.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Town.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Town.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Town.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.cpp(208,1): warning C4715: 'CObj::EDir_To_TDir': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  TrippleAttack.cpp
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(23,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TrippleAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(24,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TrippleAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(27,51): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TrippleAttack.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\DefaultWindow\Obj.h(28,50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TrippleAttack.cpp'을(를) 컴파일하는 중)
+  
+  UI.cpp
+  UIMgr.cpp
+  Window.cpp
+  WindowBasicButton.cpp
+  코드를 생성하고 있습니다...
+SoundMgr.obj : error LNK2019: FMOD_System_Create"public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_System_Release"public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_System_Init"public: void __cdecl CSoundMgr::Initialize(void)" (?Initialize@CSoundMgr@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_System_Close"public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_System_Update"private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_System_CreateSound"private: void __cdecl CSoundMgr::LoadSoundFile(void)" (?LoadSoundFile@CSoundMgr@@AEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_System_PlaySound"public: void __cdecl CSoundMgr::PlayBGM(wchar_t *,float)" (?PlayBGM@CSoundMgr@@QEAAXPEA_WM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_Sound_Release"public: void __cdecl CSoundMgr::Release(void)" (?Release@CSoundMgr@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_Channel_Stop"public: void __cdecl CSoundMgr::StopAll(void)" (?StopAll@CSoundMgr@@QEAAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_Channel_SetVolume"public: void __cdecl CSoundMgr::PlayBGM(wchar_t *,float)" (?PlayBGM@CSoundMgr@@QEAAXPEA_WM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_Channel_IsPlaying"public: void __cdecl CSoundMgr::PlaySound(wchar_t *,enum CHANNELID,float)" (?PlaySound@CSoundMgr@@QEAAXPEA_WW4CHANNELID@@M@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+SoundMgr.obj : error LNK2019: FMOD_Channel_SetMode"public: void __cdecl CSoundMgr::PlayBGM(wchar_t *,float)" (?PlayBGM@CSoundMgr@@QEAAXPEA_WM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+fmodex_vc.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Workbench\PortFolio\WinAPI\Trickster\Project\x64\Debug\CopyTrickster.exe : fatal error LNK1120: 12개의 확인할 수 없는 외부 참조입니다.

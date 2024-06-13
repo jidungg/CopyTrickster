@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  DefaultWindow.cpp
+  MainGame.cpp
+C:\Workbench\Jusin\수업\3개월\DefaultWindow\DefaultWindow\DefaultWindow.cpp(54,15): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obj.cpp
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+C:\Workbench\Jusin\수업\3개월\DefaultWindow\DefaultWindow\DefaultWindow.cpp(97,28): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DefaultWindow.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+  코드를 생성하고 있습니다...
+  DefaultWindow.vcxproj -> C:\Workbench\Jusin\수업\3개월\DefaultWindow\Debug\DefaultWindow.exe
